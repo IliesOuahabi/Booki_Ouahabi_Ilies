@@ -407,7 +407,7 @@ input[type="text"] {
 .logo {
     
     margin-bottom : 30px;
-    margin-left: px;
+    
     height: 20px;
 }
 
@@ -714,6 +714,7 @@ h6 {
 
     .logo {
         display: flex;
+        margin-left: 35px;
     }
 
 
